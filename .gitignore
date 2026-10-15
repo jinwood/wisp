@@ -1,0 +1,4 @@
+build/
+core/build/
+app/.build/
+.DS_Store
